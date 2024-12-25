@@ -4,7 +4,7 @@ BUPT Matrix_theory course's code
 本代码有部分参考了李昊宸老师的代码，但大部分为自己思考形成  
 本项目主要技术栈：  
  1、numpy  
- 2、matplotlib
- 3、scipy
- 4、sympy
+ 2、matplotlib  
+ 3、scipy  
+ 4、sympy  
 
